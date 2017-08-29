@@ -1,0 +1,17 @@
+node_modules
+test_out/
+out/
+.DS_Store
+coverage/**/*
+npm-debug.log*
+dist
+.idea/
+lib
+unit.xml
+.project
+.npmrc
+/.metadata/
+target
+coverage
+.vscode/
+_addShards.js
